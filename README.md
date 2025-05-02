@@ -2,7 +2,8 @@
 
 This project presents a comprehensive **COVID-19 Dashboard** for India, created using **Microsoft Excel**. It showcases vaccination statistics, case trends, testing metrics, and state-wise COVID-19 impact through interactive visuals and slicers.
 
-![Dashboard Preview](./909d0080-83d6-4a29-8625-06de11548bfe.png)
+![image](https://github.com/user-attachments/assets/ae8a03c0-6e05-40d4-9352-5749b25445c0)
+
 
 ## 📊 Features
 
